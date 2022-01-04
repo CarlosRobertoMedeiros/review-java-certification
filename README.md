@@ -27,3 +27,30 @@
 	  - Estrutura de Controle
 		
 	
+	  - Lambda
+		 Link: java.util.function
+		 - Usando @FunctionalInterface
+		 - Utilizando BinaryOperator<T>
+		 - Foreach Functional
+		 Interfaces Funcionals
+			Assinatura				Nome	
+			nada -> T				Supplier(Fornecedor)
+			T -> nada				Consumer(Consumidor)
+			T -> T					Unary Operator
+			T,T -> T				Binary Operator
+			S -> T					Function
+			T -> boolean			Predicate
+			Para Tipos Primitivos
+			IntBinaryOperator
+			LongBinaryOperator
+		 
+		 - Utilizando Predicate
+		 - Utilizando Consumer
+		 - Utilizando Function
+		 - Utilizando Predicate
+		 - Utilizando Supplier
+		 - Utilizando UnaryOperator (Muito Usado)
+		 - Usando BinaryOperator e BiFunction (Muito Usado)
+		 - Usando Runnable
+		 
+	   - Stream API
