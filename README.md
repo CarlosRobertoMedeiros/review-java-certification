@@ -54,3 +54,7 @@
 		 - Usando Runnable
 		 
 	   - Stream API
+		 - Stream
+		 - Map
+		 - Filter
+		 
