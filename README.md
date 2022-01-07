@@ -57,4 +57,10 @@
 		 - Stream
 		 - Map
 		 - Filter
+		 - Reduce
+		 - Match
+			- allMatch
+			- anyMatch
+			- noneMatch
+		 - 
 		 

@@ -1,4 +1,4 @@
-package streams.e;
+package excecao;
 
 public class Aluno {
 
