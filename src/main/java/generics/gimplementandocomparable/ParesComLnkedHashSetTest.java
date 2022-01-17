@@ -20,8 +20,8 @@ public class ParesComLnkedHashSetTest {
 		nums.add(-13);
 		
 		/**
-		 * TODO: Aqui se implementa um Comparable através do TreeSet
-		 *       Em questões muito genéricas não é possível a comparação
+		 * TODO: Aqui se implementa um Comparable atravÃ©s do TreeSet
+		 *       Em questÃµes muito genÃ©ricas nÃ£o Ã© possÃ­vel a comparaÃ§Ã£o
 		 */
 		
 		for (Integer n : nums) {
